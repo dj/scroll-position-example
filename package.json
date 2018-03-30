@@ -1,14 +1,13 @@
 {
-  "name": "scroll-position",
+  "name": "react-template",
   "version": "1.0.0",
-  "description":
-    "Demo maintaining scroll position with React 16.3's getSnapshotBeforeUpdate",
+  "description": "Minimal react template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server"
   },
-  "author": "djhrtmn@icloud.com",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "react": "^16.3.0",
